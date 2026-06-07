@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:32:55.090Z",
+  "savedAt": "2026-06-07T19:33:43.024Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -22,6 +22,16 @@
       "id": "14c6dd5e-3415-4893-9ef2-b1e7b0aad15d",
       "title": "US001",
       "description": "As a Student,\nI want to register using my university email,\nso that only university members can access the marketplace.\n\nAcceptance Criteria:\n\n- Registration requires a .edu email.\n- Verification email is sent.\n- Non-.edu emails are rejected.",
+      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "74768481-4873-4e23-a8a4-1f2fa54e0d2e",
+      "title": "US002",
+      "description": "As a Student,\nI want to scan item barcodes,\nso that product details can be filled automatically.\n\nAcceptance Criteria:\n\n- Camera opens successfully.\n- Barcode is detected.\n- Product information is populated automatically.",
       "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
       "status": "todo",
       "type": "User Story",
