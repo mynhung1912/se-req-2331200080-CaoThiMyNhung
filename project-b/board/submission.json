@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:33:43.024Z",
+  "savedAt": "2026-06-07T19:34:40.140Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -32,6 +32,16 @@
       "id": "74768481-4873-4e23-a8a4-1f2fa54e0d2e",
       "title": "US002",
       "description": "As a Student,\nI want to scan item barcodes,\nso that product details can be filled automatically.\n\nAcceptance Criteria:\n\n- Camera opens successfully.\n- Barcode is detected.\n- Product information is populated automatically.",
+      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "adfd18a5-9f30-4084-81b9-bc5fab4b3e08",
+      "title": "US003",
+      "description": "As a Student,\nI want to create auctions,\nso that buyers can compete for my item.\n\nAcceptance Criteria:\n\n- Seller can start an auction.\n- Users can submit bids.\n- Highest bid wins when auction closes.",
       "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
       "status": "todo",
       "type": "User Story",
