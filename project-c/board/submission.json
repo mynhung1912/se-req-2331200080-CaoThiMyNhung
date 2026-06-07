@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:52:12.364Z",
+  "savedAt": "2026-06-07T19:53:00.741Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -42,6 +42,16 @@
       "id": "d110a872-2887-4cc5-a548-29b9559dd467",
       "title": "US003",
       "description": "As a Student,\nI want sold-out items hidden,\nso that I do not attempt to order unavailable food.\n\nAcceptance Criteria:\n\n- Sold-out items are marked.\n- Sold-out items cannot be ordered.\n- Menu updates immediately.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "b2c2b8a6-c569-42b9-971f-206627db0697",
+      "title": "US004",
+      "description": "As a Kitchen Staff member,\nI want to mark items as sold out instantly,\nso that customers receive accurate availability information.\n\nAcceptance Criteria:\n\n- Staff can update availability.\n- Changes appear immediately.\n- New orders are blocked.",
       "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
       "status": "todo",
       "type": "User Story",
