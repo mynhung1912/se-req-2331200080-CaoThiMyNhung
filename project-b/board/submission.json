@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:29:59.969Z",
+  "savedAt": "2026-06-07T19:30:37.101Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "Requirement:\nThis needs to be exclusive.\n\nExplanation:\n\nThe term \"exclusive\" is unclear because it does not define exactly who may use the system. It is unclear whether access should be restricted to current students only, faculty members, alumni, or anyone with a university email address.",
     "ambiguity2": "Requirement:\nSafe Exchange Zones\n\nExplanation:\n\nThe requirement does not specify how exchange zones are defined, maintained, approved, or updated. It is unclear how many zones should exist and who manages them.",
-    "conflictSolution": "",
+    "conflictSolution": "Conflict:\n\nThe Student Union wants to collect a 2% transaction fee.\n\nThe University Legal Team states that the university cannot process payments.\n\nProposed Solution:\n\nThe platform will not process financial transactions.\n\nUsers will complete payments using external services such as Venmo, bank transfer, or cash.\n\nThe Student Union may generate revenue through premium listing services instead of transaction fees.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
