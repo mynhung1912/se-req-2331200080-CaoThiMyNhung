@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:21:27.562Z",
+  "savedAt": "2026-06-07T19:23:21.841Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -43,7 +43,7 @@
       "title": "US003",
       "description": "Title:\nView Seat Availability\n\nAs a Student,\nI want to see current seat availability,\nso that I can choose courses with open seats.\n\nAcceptance Criteria:\n\n- Available seat counts are displayed.\n- Full classes are clearly marked.\n- Data is synchronized with the live database.\n- Updates occur without page refresh.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "todo",
+      "status": "review",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
@@ -53,7 +53,7 @@
       "title": "US004",
       "description": "Title:\nReceive Schedule Warnings\n\nAs a Student,\nI want to receive warnings for early classes,\nso that I can avoid creating schedules that do not fit my preferences.\n\nAcceptance Criteria:\n\n- Warning appears for classes beginning before 8:00 AM.\n- Student can continue despite the warning.\n- Warning message explains the reason.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "todo",
+      "status": "progress",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
@@ -62,6 +62,36 @@
       "id": "a8a5fb93-855f-4722-bf01-54a9c50f53cf",
       "title": "US005",
       "description": "Title:\nOverride Prerequisites\n\nAs an Advisor,\nI want to override prerequisite restrictions,\nso that students with special permission can enroll.\n\nAcceptance Criteria:\n\n- Advisor can override prerequisite rules.\n- A justification is required.\n- Override actions are recorded in the audit log.\n- Students can register after approval.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "review",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "7b1d2081-0ed3-4a2a-94fa-9a4cf5da0d3b",
+      "title": "Epic 1",
+      "description": "Security\nProtect all student academic information from unauthorized access.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "88e84f01-cd9c-4759-bd01-5879bdb9712c",
+      "title": "Epic 2",
+      "description": "Audit Logging\nTrack and store all advisor override actions for compliance purposes.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "973b1cd0-ef46-4445-805e-ebb8620fa950",
+      "title": "Epic 3",
+      "description": "Usability\nProvide an intuitive and user-friendly academic planning interface.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
       "status": "todo",
       "type": "User Story",
