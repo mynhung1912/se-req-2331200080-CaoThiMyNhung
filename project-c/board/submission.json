@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:53:47.847Z",
+  "savedAt": "2026-06-07T19:54:27.316Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
+    },
+    {
+      "id": "850164ff-869e-4526-9d18-5e0ef6e5b15d",
+      "title": "NFR Epic 1: Reliability\nThe kitchen display system must continue operating during ",
+      "description": "Reliability\nThe kitchen display system must continue operating during temporary internet outages.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "78e6caf5-2900-49c6-8633-a60229c4160b",
+      "title": "NFR Epic 2: Performance\nOrders should appear on the kitchen display within seconds",
+      "description": "Performance\nOrders should appear on the kitchen display within seconds after submission.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "a02c9e6d-8763-4764-85c9-6bc2d78c8299",
+      "title": "NFR Epic 3: Usability\nStudents should easily filter menu items based on allergies.",
+      "description": "Usability\nStudents should easily filter menu items based on allergies.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
