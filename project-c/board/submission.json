@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:48:25.845Z",
+  "savedAt": "2026-06-07T19:49:19.472Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -22,8 +22,8 @@
     "ambiguity1": "Requirement:\nReduce the queue.\n\nExplanation:\n\nThe requirement does not specify a measurable target. It is unclear how much reduction is expected and how success will be evaluated.",
     "ambiguity2": "Requirement:\nOffering them a discount.\n\nExplanation:\n\nThe discount amount, eligibility conditions, duration, and limitations are not specified.",
     "conflictSolution": "No direct stakeholder conflict was identified.\n\nProposed Solution:\n\nPrioritize allergy filtering and order management features because they directly affect student safety and cafeteria operations.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Reliability\nThe kitchen display system must continue operating during temporary internet outages.",
+    "nfr2": "Performance\nOrders should appear on the kitchen display within seconds after submission.",
+    "nfr3": "Usability\nStudents should easily filter menu items based on allergies."
   }
 }
