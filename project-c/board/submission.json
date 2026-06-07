@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:49:19.472Z",
+  "savedAt": "2026-06-07T19:50:41.079Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "c03226fd-0b0f-417b-87aa-b194abfda6a9",
+      "title": "US001",
+      "description": "As a Student,\nI want to order food from my phone,\nso that I can avoid waiting in line.\n\nAcceptance Criteria:\n\n- Student can browse menu items.\n- Student can place an order.\n- Confirmation is displayed.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    }
+  ],
   "analysis": {
     "ambiguity1": "Requirement:\nReduce the queue.\n\nExplanation:\n\nThe requirement does not specify a measurable target. It is unclear how much reduction is expected and how success will be evaluated.",
     "ambiguity2": "Requirement:\nOffering them a discount.\n\nExplanation:\n\nThe discount amount, eligibility conditions, duration, and limitations are not specified.",
