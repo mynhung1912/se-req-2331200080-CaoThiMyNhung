@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:34:40.140Z",
+  "savedAt": "2026-06-07T19:35:27.142Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -42,6 +42,16 @@
       "id": "adfd18a5-9f30-4084-81b9-bc5fab4b3e08",
       "title": "US003",
       "description": "As a Student,\nI want to create auctions,\nso that buyers can compete for my item.\n\nAcceptance Criteria:\n\n- Seller can start an auction.\n- Users can submit bids.\n- Highest bid wins when auction closes.",
+      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "5ac03d2a-ed54-4439-a46f-da69a561627d",
+      "title": "US004",
+      "description": "As a Student,\nI want to select a safe exchange zone,\nso that I can meet buyers safely.\n\nAcceptance Criteria:\n\n- Safe zones are displayed on a list.\n- One zone must be selected before chat.\n- Selection is saved.",
       "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
       "status": "todo",
       "type": "User Story",
