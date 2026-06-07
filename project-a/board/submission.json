@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:17:37.221Z",
+  "savedAt": "2026-06-07T19:18:40.518Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -22,6 +22,16 @@
       "id": "bbfd6e97-7991-46ea-907e-5086ac94f4f8",
       "title": "US001",
       "description": "Title:\nBuild Academic Roadmap\n\nAs a Student,\nI want to drag and drop courses into a calendar,\nso that I can visually build my academic roadmap.\n\nAcceptance Criteria:\n\n- Student can drag courses onto the calendar.\n- Course placement updates immediately.\n- Schedule changes are saved successfully.\n- Conflicting time slots are highlighted.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "0aba5341-7570-4fef-9f66-bd27b7087cb8",
+      "title": "US002",
+      "description": "Title:\nCheck Prerequisites\n\nAs a Student,\nI want the system to validate prerequisites,\nso that I do not choose courses I am not eligible to take.\n\nAcceptance Criteria:\n\n- System checks prerequisite requirements automatically.\n- Invalid courses display an error message.\n- Student cannot register for invalid courses.\n- Validation occurs before saving the roadmap.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
       "status": "todo",
       "type": "User Story",
