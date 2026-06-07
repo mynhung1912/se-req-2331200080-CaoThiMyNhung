@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:46:20.132Z",
+  "savedAt": "2026-06-07T19:47:29.882Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "Requirement:\nReduce the queue.\n\nExplanation:\n\nThe requirement does not specify a measurable target. It is unclear how much reduction is expected and how success will be evaluated.",
-    "ambiguity2": "",
+    "ambiguity2": "Requirement:\nOffering them a discount.\n\nExplanation:\n\nThe discount amount, eligibility conditions, duration, and limitations are not specified.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
