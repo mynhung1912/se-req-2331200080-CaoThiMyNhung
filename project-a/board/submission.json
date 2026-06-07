@@ -1,102 +1,102 @@
 {
-  "savedAt": "2026-06-07T19:23:21.841Z",
+  "savedAt": "2026-06-07T19:57:34.691Z",
   "groups": [
     {
-      "id": "904a7d60-e50d-4d87-947b-d589db418cff",
+      "id": "012924b7-626b-4c63-9689-422c6d3dc4bd",
       "name": "Blockers",
       "color": "#2563eb"
     },
     {
-      "id": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "id": "63956166-e91b-4644-b50d-3c1482c648a8",
       "name": "Standard Work",
       "color": "#059669"
     },
     {
-      "id": "ca894c00-4d1a-49c6-aa66-9f199d73c791",
+      "id": "9d7b627e-74d2-497d-9a7d-5e22c6bff24f",
       "name": "Minors",
       "color": "#d97706"
     }
   ],
   "tickets": [
     {
-      "id": "bbfd6e97-7991-46ea-907e-5086ac94f4f8",
+      "id": "12039a57-5a1b-4176-930c-222c90e1b769",
       "title": "US001",
       "description": "Title:\nBuild Academic Roadmap\n\nAs a Student,\nI want to drag and drop courses into a calendar,\nso that I can visually build my academic roadmap.\n\nAcceptance Criteria:\n\n- Student can drag courses onto the calendar.\n- Course placement updates immediately.\n- Schedule changes are saved successfully.\n- Conflicting time slots are highlighted.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "0aba5341-7570-4fef-9f66-bd27b7087cb8",
+      "id": "3ca57b46-ddc4-4fa2-b098-654f2409b6c7",
       "title": "US002",
       "description": "Title:\nCheck Prerequisites\n\nAs a Student,\nI want the system to validate prerequisites,\nso that I do not choose courses I am not eligible to take.\n\nAcceptance Criteria:\n\n- System checks prerequisite requirements automatically.\n- Invalid courses display an error message.\n- Student cannot register for invalid courses.\n- Validation occurs before saving the roadmap.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "progress",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
+      "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "7644015d-ebe0-4899-bfdf-cf36d558e061",
+      "id": "b0690d8a-b8a6-4774-b961-1a9fb70c4ba5",
       "title": "US003",
       "description": "Title:\nView Seat Availability\n\nAs a Student,\nI want to see current seat availability,\nso that I can choose courses with open seats.\n\nAcceptance Criteria:\n\n- Available seat counts are displayed.\n- Full classes are clearly marked.\n- Data is synchronized with the live database.\n- Updates occur without page refresh.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "review",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
+      "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "cdb515e7-1c31-492c-89a3-587e22c9f183",
+      "id": "b9b86ee9-de71-45a1-9fdf-3c36e9041271",
       "title": "US004",
       "description": "Title:\nReceive Schedule Warnings\n\nAs a Student,\nI want to receive warnings for early classes,\nso that I can avoid creating schedules that do not fit my preferences.\n\nAcceptance Criteria:\n\n- Warning appears for classes beginning before 8:00 AM.\n- Student can continue despite the warning.\n- Warning message explains the reason.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "progress",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
+      "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "a8a5fb93-855f-4722-bf01-54a9c50f53cf",
+      "id": "c3de6b03-0f45-4a1e-97c5-976ca586db4a",
       "title": "US005",
       "description": "Title:\nOverride Prerequisites\n\nAs an Advisor,\nI want to override prerequisite restrictions,\nso that students with special permission can enroll.\n\nAcceptance Criteria:\n\n- Advisor can override prerequisite rules.\n- A justification is required.\n- Override actions are recorded in the audit log.\n- Students can register after approval.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
-      "status": "review",
-      "type": "User Story",
-      "priority": "Medium",
-      "owner": "My Nhung"
-    },
-    {
-      "id": "7b1d2081-0ed3-4a2a-94fa-9a4cf5da0d3b",
-      "title": "Epic 1",
-      "description": "Security\nProtect all student academic information from unauthorized access.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "88e84f01-cd9c-4759-bd01-5879bdb9712c",
-      "title": "Epic 2",
-      "description": "Audit Logging\nTrack and store all advisor override actions for compliance purposes.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "id": "79f1b30b-7541-420d-b047-1448b7e427a4",
+      "title": "NFR Epic 1: Security\n\nThe system must ensure that students cannot access or view a",
+      "description": "Security\n\nThe system must ensure that students cannot access or view another student's academic schedule or personal data.",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
       "status": "todo",
-      "type": "User Story",
+      "type": "Epic",
       "priority": "Medium",
-      "owner": "My Nhung"
+      "owner": ""
     },
     {
-      "id": "973b1cd0-ef46-4445-805e-ebb8620fa950",
-      "title": "Epic 3",
-      "description": "Usability\nProvide an intuitive and user-friendly academic planning interface.",
-      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "id": "3b9a2578-4633-446c-9d1c-5263f49704a4",
+      "title": "NFR Epic 2: Auditability\n\nThe system must log all prerequisite override actions pe",
+      "description": "Auditability\n\nThe system must log all prerequisite override actions performed by advisors, including timestamp and advisor identity.",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
       "status": "todo",
-      "type": "User Story",
+      "type": "Epic",
       "priority": "Medium",
-      "owner": "My Nhung"
+      "owner": ""
+    },
+    {
+      "id": "4a087d14-2c75-4074-8c04-98bfef248dce",
+      "title": "NFR Epic 3: Usability\n\nThe system should provide an intuitive drag-and-drop schedu",
+      "description": "Usability\n\nThe system should provide an intuitive drag-and-drop scheduling interface that students can learn quickly without training.",
+      "groupId": "63956166-e91b-4644-b50d-3c1482c648a8",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
