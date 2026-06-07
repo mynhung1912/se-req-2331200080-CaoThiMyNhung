@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:50:41.079Z",
+  "savedAt": "2026-06-07T19:51:27.724Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -22,6 +22,16 @@
       "id": "c03226fd-0b0f-417b-87aa-b194abfda6a9",
       "title": "US001",
       "description": "As a Student,\nI want to order food from my phone,\nso that I can avoid waiting in line.\n\nAcceptance Criteria:\n\n- Student can browse menu items.\n- Student can place an order.\n- Confirmation is displayed.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "1771c64e-1892-4b9f-9db6-ffc8f841e736",
+      "title": "US002",
+      "description": "As a Student,\nI want allergy filters,\nso that I only see safe food options.\n\nAcceptance Criteria:\n\n- Allergy filters can be selected.\n- Unsafe items are hidden.\n- Filter settings remain active during browsing.",
       "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
       "status": "todo",
       "type": "User Story",
