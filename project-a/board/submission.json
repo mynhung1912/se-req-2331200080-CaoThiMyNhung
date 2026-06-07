@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:19:30.143Z",
+  "savedAt": "2026-06-07T19:20:32.761Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -42,6 +42,16 @@
       "id": "7644015d-ebe0-4899-bfdf-cf36d558e061",
       "title": "US003",
       "description": "Title:\nView Seat Availability\n\nAs a Student,\nI want to see current seat availability,\nso that I can choose courses with open seats.\n\nAcceptance Criteria:\n\n- Available seat counts are displayed.\n- Full classes are clearly marked.\n- Data is synchronized with the live database.\n- Updates occur without page refresh.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "cdb515e7-1c31-492c-89a3-587e22c9f183",
+      "title": "US004",
+      "description": "Title:\nReceive Schedule Warnings\n\nAs a Student,\nI want to receive warnings for early classes,\nso that I can avoid creating schedules that do not fit my preferences.\n\nAcceptance Criteria:\n\n- Warning appears for classes beginning before 8:00 AM.\n- Student can continue despite the warning.\n- Warning message explains the reason.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
       "status": "todo",
       "type": "User Story",
