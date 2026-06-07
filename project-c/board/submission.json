@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:53:00.741Z",
+  "savedAt": "2026-06-07T19:53:47.847Z",
   "groups": [
     {
       "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
@@ -52,6 +52,16 @@
       "id": "b2c2b8a6-c569-42b9-971f-206627db0697",
       "title": "US004",
       "description": "As a Kitchen Staff member,\nI want to mark items as sold out instantly,\nso that customers receive accurate availability information.\n\nAcceptance Criteria:\n\n- Staff can update availability.\n- Changes appear immediately.\n- New orders are blocked.",
+      "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "d583d682-a307-40e0-823f-08add4c1913f",
+      "title": "US005",
+      "description": "As a Marketing Staff member,\nI want to send promotional notifications,\nso that students are informed about special offers.\n\nAcceptance Criteria:\n\n- Notifications can be scheduled.\n- Notifications are delivered successfully.\n- Students receive the promotion message.",
       "groupId": "960b795f-b78c-43a0-86dc-7734ad575875",
       "status": "todo",
       "type": "User Story",
