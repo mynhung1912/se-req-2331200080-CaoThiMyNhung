@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:15:57.030Z",
+  "savedAt": "2026-06-07T19:17:37.221Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "bbfd6e97-7991-46ea-907e-5086ac94f4f8",
+      "title": "US001",
+      "description": "Title:\nBuild Academic Roadmap\n\nAs a Student,\nI want to drag and drop courses into a calendar,\nso that I can visually build my academic roadmap.\n\nAcceptance Criteria:\n\n- Student can drag courses onto the calendar.\n- Course placement updates immediately.\n- Schedule changes are saved successfully.\n- Conflicting time slots are highlighted.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    }
+  ],
   "analysis": {
     "ambiguity1": "The system needs to stop them from even asking.This requirement is ambiguous because it does not specify how the system should prevent students from asking prerequisite-related questions. It is unclear whether the system should block emails, provide automatic answers, display prerequisite information proactively, or use another mechanism. The expected system behavior is not clearly defined.",
     "ambiguity2": "I want the app to warn me if I'm choosing a class that starts at 8:00 AM because I will definitely oversleep.This requirement is ambiguous because it is based on a personal preference rather than a measurable rule. It is unclear whether the warning should apply only to 8:00 AM classes, all morning classes, or be configurable by each student.",
