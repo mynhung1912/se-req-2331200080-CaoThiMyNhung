@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:18:40.518Z",
+  "savedAt": "2026-06-07T19:19:30.143Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -32,6 +32,16 @@
       "id": "0aba5341-7570-4fef-9f66-bd27b7087cb8",
       "title": "US002",
       "description": "Title:\nCheck Prerequisites\n\nAs a Student,\nI want the system to validate prerequisites,\nso that I do not choose courses I am not eligible to take.\n\nAcceptance Criteria:\n\n- System checks prerequisite requirements automatically.\n- Invalid courses display an error message.\n- Student cannot register for invalid courses.\n- Validation occurs before saving the roadmap.",
+      "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "status": "progress",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "7644015d-ebe0-4899-bfdf-cf36d558e061",
+      "title": "US003",
+      "description": "Title:\nView Seat Availability\n\nAs a Student,\nI want to see current seat availability,\nso that I can choose courses with open seats.\n\nAcceptance Criteria:\n\n- Available seat counts are displayed.\n- Full classes are clearly marked.\n- Data is synchronized with the live database.\n- Updates occur without page refresh.",
       "groupId": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
       "status": "todo",
       "type": "User Story",
