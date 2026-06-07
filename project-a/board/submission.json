@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:14:14.732Z",
+  "savedAt": "2026-06-07T19:15:02.830Z",
   "groups": [
     {
       "id": "904a7d60-e50d-4d87-947b-d589db418cff",
@@ -21,7 +21,7 @@
   "analysis": {
     "ambiguity1": "The system needs to stop them from even asking.This requirement is ambiguous because it does not specify how the system should prevent students from asking prerequisite-related questions. It is unclear whether the system should block emails, provide automatic answers, display prerequisite information proactively, or use another mechanism. The expected system behavior is not clearly defined.",
     "ambiguity2": "I want the app to warn me if I'm choosing a class that starts at 8:00 AM because I will definitely oversleep.This requirement is ambiguous because it is based on a personal preference rather than a measurable rule. It is unclear whether the warning should apply only to 8:00 AM classes, all morning classes, or be configurable by each student.",
-    "conflictSolution": "",
+    "conflictSolution": "Conflict:\n\nThe Registrar requires the system to prevent students from adding full classes to their roadmap because seat availability comes from the live database.\n\nThe Head of Advising wants students to plan four years ahead, even when future seat availability is unknown.\n\nProposed Solution:\n\nImplement two planning modes:\n\n1. Academic Planning Mode:\nStudents may add any course to a long-term roadmap regardless of current seat availability.\n\n2. Registration Mode:\nStudents may only register for courses that currently have available seats.\n\nThis solution supports long-term planning while maintaining accurate enrollment controls.",
     "nfr1": "",
     "nfr2": "",
     "nfr3": ""
