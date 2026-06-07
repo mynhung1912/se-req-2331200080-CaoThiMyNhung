@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:26:35.745Z",
+  "savedAt": "2026-06-07T19:29:59.969Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "Requirement:\nThis needs to be exclusive.\n\nExplanation:\n\nThe term \"exclusive\" is unclear because it does not define exactly who may use the system. It is unclear whether access should be restricted to current students only, faculty members, alumni, or anyone with a university email address.",
-    "ambiguity2": "",
+    "ambiguity2": "Requirement:\nSafe Exchange Zones\n\nExplanation:\n\nThe requirement does not specify how exchange zones are defined, maintained, approved, or updated. It is unclear how many zones should exist and who manages them.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
