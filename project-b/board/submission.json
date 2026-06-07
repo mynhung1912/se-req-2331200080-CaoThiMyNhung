@@ -1,72 +1,102 @@
 {
-  "savedAt": "2026-06-07T19:36:23.066Z",
+  "savedAt": "2026-06-07T19:45:22.273Z",
   "groups": [
     {
-      "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
+      "id": "249b9e65-18df-49e9-bf04-c1d66e24bd9b",
       "name": "Blockers",
       "color": "#2563eb"
     },
     {
-      "id": "147df08d-4878-42fe-be41-d61b916367fd",
+      "id": "74cadc9b-7baf-4708-917c-c43adec5e388",
       "name": "Standard Work",
       "color": "#059669"
     },
     {
-      "id": "1883f0d2-5c14-4f7e-a898-3aa20179f53a",
+      "id": "5e8d81a4-06dc-4e13-a4ca-a6bacb086bbb",
       "name": "Minors",
       "color": "#d97706"
     }
   ],
   "tickets": [
     {
-      "id": "14c6dd5e-3415-4893-9ef2-b1e7b0aad15d",
+      "id": "c6807c54-aeb0-4306-b36b-b134b37809e7",
       "title": "US001",
       "description": "As a Student,\nI want to register using my university email,\nso that only university members can access the marketplace.\n\nAcceptance Criteria:\n\n- Registration requires a .edu email.\n- Verification email is sent.\n- Non-.edu emails are rejected.",
-      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "74768481-4873-4e23-a8a4-1f2fa54e0d2e",
+      "id": "ca4b5f8d-e0cb-49fc-a270-d6e36d20c73a",
       "title": "US002",
       "description": "As a Student,\nI want to scan item barcodes,\nso that product details can be filled automatically.\n\nAcceptance Criteria:\n\n- Camera opens successfully.\n- Barcode is detected.\n- Product information is populated automatically.",
-      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
-      "status": "progress",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
+      "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "adfd18a5-9f30-4084-81b9-bc5fab4b3e08",
+      "id": "164ff625-628b-46f6-b1c5-6131639481c7",
       "title": "US003",
       "description": "As a Student,\nI want to create auctions,\nso that buyers can compete for my item.\n\nAcceptance Criteria:\n\n- Seller can start an auction.\n- Users can submit bids.\n- Highest bid wins when auction closes.",
-      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "5ac03d2a-ed54-4439-a46f-da69a561627d",
+      "id": "c731ea24-8cb3-4048-b97c-38d9854b0135",
       "title": "US004",
       "description": "As a Student,\nI want to select a safe exchange zone,\nso that I can meet buyers safely.\n\nAcceptance Criteria:\n\n- Safe zones are displayed on a list.\n- One zone must be selected before chat.\n- Selection is saved.",
-      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
       "owner": "My Nhung"
     },
     {
-      "id": "3916cfa9-a69b-485c-b848-eea4ec4f3e68",
+      "id": "1bd9e492-a765-4b4d-92ac-4b679aee8c03",
       "title": "US005",
       "description": "As an Administrator,\nI want to manage safe exchange zones,\nso that students use approved meeting locations.\n\nAcceptance Criteria:\n\n- Admin can add zones.\n- Admin can edit zones.\n- Admin can remove zones.",
-      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
-      "owner": "My Nhung"
+      "owner": "MyNhung"
+    },
+    {
+      "id": "899a8947-57e6-48b5-b9bf-3e56b102060e",
+      "title": "NFR Epic 1: Security\nOnly verified university members may access the platform.",
+      "description": "Security\nOnly verified university members may access the platform.",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "f430f258-ea15-41b5-b107-0d9b2f6d5f9c",
+      "title": "NFR Epic 2: Safety\nThe system should encourage safe in-person exchanges.",
+      "description": "Safety\nThe system should encourage safe in-person exchanges.",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "0dfa6d60-efb7-4c1f-8a97-6ffbff74db92",
+      "title": "NFR Epic 3: Usability\nListing and selling items should require minimal effort.",
+      "description": "Usability\nListing and selling items should require minimal effort.",
+      "groupId": "74cadc9b-7baf-4708-917c-c43adec5e388",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
