@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:35:27.142Z",
+  "savedAt": "2026-06-07T19:36:23.066Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -52,6 +52,16 @@
       "id": "5ac03d2a-ed54-4439-a46f-da69a561627d",
       "title": "US004",
       "description": "As a Student,\nI want to select a safe exchange zone,\nso that I can meet buyers safely.\n\nAcceptance Criteria:\n\n- Safe zones are displayed on a list.\n- One zone must be selected before chat.\n- Selection is saved.",
+      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    },
+    {
+      "id": "3916cfa9-a69b-485c-b848-eea4ec4f3e68",
+      "title": "US005",
+      "description": "As an Administrator,\nI want to manage safe exchange zones,\nso that students use approved meeting locations.\n\nAcceptance Criteria:\n\n- Admin can add zones.\n- Admin can edit zones.\n- Admin can remove zones.",
       "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
       "status": "todo",
       "type": "User Story",
