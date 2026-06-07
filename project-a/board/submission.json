@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-07T19:12:50.386Z",
+  "groups": [
+    {
+      "id": "904a7d60-e50d-4d87-947b-d589db418cff",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "6cbd081a-fe0e-4e01-a0cc-87062bdab320",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "ca894c00-4d1a-49c6-aa66-9f199d73c791",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The system needs to stop them from even asking.This requirement is ambiguous because it does not specify how the system should prevent students from asking prerequisite-related questions. It is unclear whether the system should block emails, provide automatic answers, display prerequisite information proactively, or use another mechanism. The expected system behavior is not clearly defined.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
