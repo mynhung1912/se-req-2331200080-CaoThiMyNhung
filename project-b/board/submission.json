@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-07T19:26:35.745Z",
+  "groups": [
+    {
+      "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "147df08d-4878-42fe-be41-d61b916367fd",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "1883f0d2-5c14-4f7e-a898-3aa20179f53a",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "Requirement:\nThis needs to be exclusive.\n\nExplanation:\n\nThe term \"exclusive\" is unclear because it does not define exactly who may use the system. It is unclear whether access should be restricted to current students only, faculty members, alumni, or anyone with a university email address.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
