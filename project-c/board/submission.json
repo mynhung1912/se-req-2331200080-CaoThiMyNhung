@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-07T19:46:20.132Z",
+  "groups": [
+    {
+      "id": "0098791d-78cf-4ec4-90e9-c519aab1e4c3",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "960b795f-b78c-43a0-86dc-7734ad575875",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "f2ed53cf-1407-45ff-ae97-496aed29b15c",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "Requirement:\nReduce the queue.\n\nExplanation:\n\nThe requirement does not specify a measurable target. It is unclear how much reduction is expected and how success will be evaluated.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
