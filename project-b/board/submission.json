@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-07T19:31:57.432Z",
+  "savedAt": "2026-06-07T19:32:55.090Z",
   "groups": [
     {
       "id": "bbf66a4e-0815-474c-8479-6887fdc9a7ee",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "14c6dd5e-3415-4893-9ef2-b1e7b0aad15d",
+      "title": "US001",
+      "description": "As a Student,\nI want to register using my university email,\nso that only university members can access the marketplace.\n\nAcceptance Criteria:\n\n- Registration requires a .edu email.\n- Verification email is sent.\n- Non-.edu emails are rejected.",
+      "groupId": "147df08d-4878-42fe-be41-d61b916367fd",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "My Nhung"
+    }
+  ],
   "analysis": {
     "ambiguity1": "Requirement:\nThis needs to be exclusive.\n\nExplanation:\n\nThe term \"exclusive\" is unclear because it does not define exactly who may use the system. It is unclear whether access should be restricted to current students only, faculty members, alumni, or anyone with a university email address.",
     "ambiguity2": "Requirement:\nSafe Exchange Zones\n\nExplanation:\n\nThe requirement does not specify how exchange zones are defined, maintained, approved, or updated. It is unclear how many zones should exist and who manages them.",
